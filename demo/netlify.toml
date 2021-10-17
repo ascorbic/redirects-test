@@ -1,0 +1,9 @@
+[build]
+publish = ".next"
+
+[context]
+
+[context.production]
+
+[context.production.functions]
+node_bundler = "zisi"
